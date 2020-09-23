@@ -1,6 +1,4 @@
-![Build Status](https://dev.azure.com/quickreach2020/ResearchAndDevelopment/_apis/build/status/thexur.pipelines-dotnet-core?branchName=master)
-
-![QuickReach](https://www.google.com/imgres?imgurl=https%3A%2F%2Fstore-images.s-microsoft.com%2Fimage%2Fapps.42214.ccbea0b5-5a2d-4c8b-9c91-b4bef5144946.c14aa6fb-bfc6-4a96-adeb-83e1ed72aa91.76d0ad48-ce32-4f43-88c5-b527d6367fb6&imgrefurl=https%3A%2F%2Fappsource.microsoft.com%2Fen-cy%2Fproduct%2Fweb-apps%2Fblastasiainc.quickreach-finance%3Ftab%3DOverview&tbnid=Gs7cs4GLpObiEM&vet=12ahUKEwiLyZ6ylv7rAhUtEqYKHbB5Cd0QMygAegUIARCVAQ..i&docid=UOBZHPKk3FQmDM&w=216&h=216&q=quickreach&safe=active&ved=2ahUKEwiLyZ6ylv7rAhUtEqYKHbB5Cd0QMygAegUIARCVAQ)
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
 
 # Sample ASP.NET Core application for Azure Pipelines docs
 
