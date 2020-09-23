@@ -1,3 +1,5 @@
+https://dev.azure.com/quickreach2020/ResearchAndDevelopment/_apis/build/status/thexur.pipelines-dotnet-core?branchName=master
+
 [![Build Status](https://dev.azure.com/quickreach2020/ResearchAndDevelopment/_apis/build/status/thexur.pipelines-dotnet-core?branchName=master)](https://dev.azure.com/quickreach2020/ResearchAndDevelopment/_build/latest?definitionId=1&branchName=master)
 
 # Sample ASP.NET Core application for Azure Pipelines docs
